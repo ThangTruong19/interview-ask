@@ -1,0 +1,39 @@
+.form-login {
+    /* align-content: center; */
+    width: 400px;
+}
+
+.login {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(0, 195, 255);
+    align-content: center;
+    margin: auto;
+}
+
+.login-middle {
+    margin: auto;
+}
+
+.form {
+    text-align: -webkit-center;
+}
+
+.login-left {
+    text-align: left;
+}
+
+.login-right {
+    text-align: right;
+    padding-left: 5px;
+}
+
+.auth-inner {
+    text-align: -webkit-center;
+    margin-top: 150px;
+}
+
+.form-login label {
+    display: flex;
+    padding-left: 2px;
+}
